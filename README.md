@@ -78,7 +78,7 @@ Deriving statistical insights from the data to provide a deeper understanding of
 
 ## Results
 
-The analysis results include detailed visualizations and statistical insights, which can be found in the `results/` directory. Highlights include:
+The analysis results include detailed visualizations and statistical insights, which can be found in the `T20 World Cup Report/` directory. Highlights include:
 
 - Player performance metrics
 - Team performance trends
